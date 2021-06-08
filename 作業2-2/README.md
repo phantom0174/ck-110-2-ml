@@ -24,7 +24,7 @@ ver1:
 `InputDim = 56`, `OutputDim = 3` 
 
 * ver1中，HLC=5, HNC由下列函數計算
-![ver1 method]()
+![ver1 method](https://github.com/phantom0174/ck-110-2-ml/blob/main/%E4%BD%9C%E6%A5%AD2-2/img/ver1_method.png)
 
 * ver2中，HLC=5, HNC由下列函數計算
-![ver2 method]()
+![ver2 method](https://github.com/phantom0174/ck-110-2-ml/blob/main/%E4%BD%9C%E6%A5%AD2-2/img/ver2_method.png)
