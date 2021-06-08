@@ -25,9 +25,12 @@ ver1:
 
 * ver1中，HLC=5, HNC由下列函數計算
 <br>
+
 ![ver1 method](https://github.com/phantom0174/ck-110-2-ml/blob/main/%E4%BD%9C%E6%A5%AD2-2/img/ver1_method.png)
+
 <br>
 
 * ver2中，HLC=5, HNC由下列函數計算
 <br>
+
 ![ver2 method](https://github.com/phantom0174/ck-110-2-ml/blob/main/%E4%BD%9C%E6%A5%AD2-2/img/ver2_method.png)
